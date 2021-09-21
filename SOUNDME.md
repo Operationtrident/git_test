@@ -1,0 +1,1 @@
+This is SHAY SHAY'S FIRST git project
